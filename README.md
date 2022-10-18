@@ -2,8 +2,9 @@
 
 <h3>🕵️‍♂️ About me: </h3>
 <p>I'm from <img src="https://flagcdn.com/w20/mx.png" srcset="https://flagcdn.com/w40/mx.png 2x" width="20" alt="México">🌮</p>
-<p>Software developer engineer🖥</p><br />
-<p></p>
+<p>Software developer engineer⌨</p>
+<p>Desktop dev (but I want enter on webdev too)🖥</p>
+
 
 <h2 align="center">Languages I know</h2>
 <p align="center">
@@ -26,9 +27,10 @@
 </p>
 
 
-<h2>statistics</h2>
+<h2 align="center">🔼statistics🔽</h2>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KevinLealTorres&theme=dark&background=000000)](https://git.io/streak-stats)
-<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinLealTorres&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   
