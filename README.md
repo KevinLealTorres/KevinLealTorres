@@ -5,7 +5,6 @@
   
 ## 🕵️‍♂️ Un poco sobre mí:
 
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQHRXzNySmBHWg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709862988010?e=1746057600&v=beta&t=s6qrF4ofvmMuHD6P-NuoIDmACWCvX8ebXCiUum1ralg" height=200 align="right" class="border-radius: 50%;" />
 
 Soy estudiante en **ingeniería en desarrollo de software** (octavo semestre), freelancer en creación de páginas web con JS/TS, **usuario de linux** (actualmente estoy en Ubuntu, 1 año de experiencia como sistema operativo de escritorio), con certificados en **Java** por Oracle, **analisis de datos** con **Python** y **Big Data** (usando **Azure**).
   
@@ -19,6 +18,8 @@ Soy estudiante en **ingeniería en desarrollo de software** (octavo semestre), f
   - Codifiqué la página con el framework Astro, con el lenguaje TypeScript
   - Hice las pruebas de validacion y verificación de software
   - Lancé la página en Vercel para produccion y Github Pages para mostrar los avances a los stakeholders
+
+
   
 ### Desarrollador frontend en Cáritas de Guadalajara (2022):
   - Tomé las historias de usuarios
@@ -43,7 +44,8 @@ Soy estudiante en **ingeniería en desarrollo de software** (octavo semestre), f
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="Logo de TailwindCSS" width="80" height="80">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Logo de Ubuntu" width="80" height="80">
 </p>
-<br /> <br />
+<br />
+<br />
 
 <h2 align="center">🔼 Mis estadísticas 🔽</h2>
 
