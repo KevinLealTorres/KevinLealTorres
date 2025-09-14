@@ -1,70 +1,72 @@
-<div align="center">
-<h1>🐈 ¡Hola Mundo! Soy Kevin Leal 🐈</h1>
-<br />
-<br />
-  
-## 🕵️‍♂️ Un poco sobre mí:
+# 🐈 ¡Hola Mundo! Soy Kevin Leal 🐈
+## Sobre mí:
+
+1. Me llamo Kevin Alejandro Leal Torres
+2. Tengo 22 años
+3. Egresado de la universidad TecMilenio (2025)
+4. Cursé la carrera de **Ingeniería en desarrollo de software** (jul/2021, jul/2025)
+5. Experiencia en Windows, Linux (Ubuntu) y MacOS
+6. Inglés B2
+7. Proactivo
+
+Siempre me actualizo con los nuevos estandares en la tecnología, me fascina todo el mundo de la programación y siempre estoy dispuesto a tomar retos, gane o pierda lo importante es aprender de los errores. Ahora estoy muy interesado en el desarrollo web con JavaScript y el desarrollo de escritorio multiplataforma con Java y aprendiendo también C# (y su framework dotnet). Trabajo bien en equipo, siendo lo que mas me gusta es enseñar y proponer nuevas ideas.
 
 
-Soy estudiante en **ingeniería en desarrollo de software** (octavo semestre), freelancer en creación de páginas web con JS/TS, **usuario de linux** (actualmente estoy en Ubuntu, 1 año de experiencia como sistema operativo de escritorio), con certificados en **Java** por Oracle, **analisis de datos** con **Python** y **Big Data** (usando **Azure**).
-  
+## Certificados:
+
+<div style="text-align:center;display:grid;">
+<a href="https://www.credly.com/badges/545cc5d6-c2c0-45e8-8e39-5af3d1b5a771/public_url">
+<img src="https://images.credly.com/size/340x340/images/47ba7232-a7df-45ce-90cc-4577dfe385d3/image.png" alt="Tecnologías de Big Data badge image. Certification. Advanced level. Issued by Universidad Tecmilenio" width="340" height="340">
+</a>
+
+<a href="https://www.credly.com/badges/dc89c3b0-842a-4e40-a5d0-0efb7e3726f2/public_url">
+<img src="https://images.credly.com/size/340x340/images/70713427-cd16-4bb3-acf9-600caaf96aca/image.png" alt="Productividad Basada en Herramientas Tecnológicas badge image. Certification. Advanced level. Issued by Universidad Tecmilenio" width="340" height="340">
+</a>
+
+<a href="https://www.credly.com/badges/c08ef915-fae7-43fc-99d9-045091bd3511/public_url">
+<img src="https://images.credly.com/size/340x340/images/eb1a39e3-1b11-4fb3-9ea3-cdee15256ff5/image.png" alt="Ingeniería de Software badge image. Certification. Advanced level. Issued by Universidad Tecmilenio" width="340" height="340">
+</a>
 </div>
-  
+
+
+
+
 ## Experiencia:
+### Desarrollador frontend en AMDI Jalisco (2024):
 
-### Programador fullstack en AMDI Jalisco (2024):
-  - Tomé los requerimientos de software de los stakeholders
-  - Diseñé y propuse 3 UI candidatos
-  - Codifiqué la página con el framework Astro, con el lenguaje TypeScript
-  - Hice las pruebas de validacion y verificación de software
-  - Lancé la página en Vercel para produccion y Github Pages para mostrar los avances a los stakeholders
-
-
+|||
+|-|-|
+| <image style="height:110px;width:110px" src="https://scontent.fgdl11-1.fna.fbcdn.net/v/t39.30808-1/339761522_774818804100425_1560363853855156531_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=oCVJAxBtpzQQ7kNvwFI5Yjl&_nc_oc=AdmUC16B4M24kny8TDU-5gk-hLF4nUbXxcur8qMeI8Y2HTWoh_CPXzmzhh3y3rd5tQUK9IYDkOybFxZKjTb1ByWH&_nc_zt=24&_nc_ht=scontent.fgdl11-1.fna&_nc_gid=xj2amENWlRm1eLuf8pZ34Q&oh=00_AfaUlQVHpDgTY8kPfk7CSAXss6b3lVrtK0r3hweTG2i3cA&oe=68CC3468"></image> | <ul> <li>Tomé los requerimientos de software de los stakeholders</li> <li>Diseñé y propuse 3 UI candidatos</li> <li>Codifiqué la página con el framework Astro, con el lenguaje TypeScript</li> <li>Hice las pruebas de validacion y verificación de software</li> <li>Lancé la página en Vercel para produccion y Github Pages para mostrar los avances a los stakeholders </li> </ul> |
   
 ### Desarrollador frontend en Cáritas de Guadalajara (2022):
-  - Tomé las historias de usuarios
-  - Diseñé la UI/UX
-  - Codifiqué la página
-  - Hice las validaciones y verificaciones pertinentes
-  - Documenté el proyecto
-  - Lancé la página para Github Pages
-  
-  ## Tecnologías que sé:
-  <p align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="Clang" width="80" height="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="JavaSE" alt="JavaSE" width="80" height="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="c++20" width="80" height="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="80" height="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python3" alt="Python3.8" width="80" height="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro JS" alt="Logo del framework Astro" width="80" height="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Logo de Azure" width="80" height="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Logo de Git" width="80" height="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="Logo de HTML5" width="80" height="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="Logo de MySQL" width="80" height="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="Logo de TailwindCSS" width="80" height="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Logo de Ubuntu" width="80" height="80">
-</p>
-<br />
-<br />
 
-<h2 align="center">🔼 Mis estadísticas 🔽</h2>
+|||
+|-|-|
+| <img  sizes="110" src="https://static.wixstatic.com/media/80567b_827781f9f3d94d19b8f97e6babdeae75~mv2.png/v1/fill/w_110,h_106,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/80567b_827781f9f3d94d19b8f97e6babdeae75~mv2.png"> | <ul> <li>Tomé las historias de usuarios</li> <li>Diseñé la UI/UX</li> <li>Codifiqué la página</li> <li>Hice las validaciones y verificaciones pertinentes</li> <li>Documenté el proyecto</li> </ul> |
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KevinLealTorres&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinLealTorres&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## Tecnologías que sé:
+1. C/C++
+2. Java
+3. Python
+4. JavaScript
+5. Git
+6. HTML5
+7. SQL (MySQL)
+8. Ubuntu
+9. TailwindCSS
+10. Astro (framework de JavaScript)
+11. TypeScript
 
-  
-<!--
-**KevinLealTorres/KevinLealTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Contacto:
+### Email:
+lealtorreskevin@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### WhatsApp:
+(+52) 33 1831 6623
+### Twitter:
+https://x.com/kevinlealtorres
+
+### Instagram:
+https://www.instagram.com/kevinlealtorres/
