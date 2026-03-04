@@ -2,7 +2,7 @@
 ## Sobre mí:
 
 1. Me llamo Kevin Alejandro Leal Torres
-2. Tengo 22 años
+2. Tengo 23 años
 3. Egresado de la universidad TecMilenio (2025)
 4. Cursé la carrera de **Ingeniería en desarrollo de software** (jul/2021, jul/2025)
 5. Experiencia en Windows, Linux (Ubuntu) y MacOS
@@ -34,13 +34,13 @@ Siempre me actualizo con los nuevos estandares en la tecnología, me fascina tod
 ## Experiencia:
 ### Desarrollador frontend en AMDI Jalisco (2024):
 
-|||
+|Imagen|Tareas|
 |-|-|
 | <image style="height:110px;width:110px" src="https://scontent.fgdl11-1.fna.fbcdn.net/v/t39.30808-1/339761522_774818804100425_1560363853855156531_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=oCVJAxBtpzQQ7kNvwFI5Yjl&_nc_oc=AdmUC16B4M24kny8TDU-5gk-hLF4nUbXxcur8qMeI8Y2HTWoh_CPXzmzhh3y3rd5tQUK9IYDkOybFxZKjTb1ByWH&_nc_zt=24&_nc_ht=scontent.fgdl11-1.fna&_nc_gid=xj2amENWlRm1eLuf8pZ34Q&oh=00_AfaUlQVHpDgTY8kPfk7CSAXss6b3lVrtK0r3hweTG2i3cA&oe=68CC3468"></image> | <ul> <li>Tomé los requerimientos de software de los stakeholders</li> <li>Diseñé y propuse 3 UI candidatos</li> <li>Codifiqué la página con el framework Astro, con el lenguaje TypeScript</li> <li>Hice las pruebas de validacion y verificación de software</li> <li>Lancé la página en Vercel para produccion y Github Pages para mostrar los avances a los stakeholders </li> </ul> |
   
 ### Desarrollador frontend en Cáritas de Guadalajara (2022):
 
-|||
+|Imagen|Tareas|
 |-|-|
 | <img  sizes="110" src="https://static.wixstatic.com/media/80567b_827781f9f3d94d19b8f97e6babdeae75~mv2.png/v1/fill/w_110,h_106,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/80567b_827781f9f3d94d19b8f97e6babdeae75~mv2.png"> | <ul> <li>Tomé las historias de usuarios</li> <li>Diseñé la UI/UX</li> <li>Codifiqué la página</li> <li>Hice las validaciones y verificaciones pertinentes</li> <li>Documenté el proyecto</li> </ul> |
 
